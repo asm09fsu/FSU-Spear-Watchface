@@ -1,0 +1,16 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "RESOURCES",
+ "media": [
+	   {
+	    "type":"png",
+	    "defName":"IMAGE_FSU_SPEAR",
+	    "file":"images/spear.png"
+	   },
+	   {
+	    "type":"font",
+	    "defName":"FONT_AVENIR_44",
+	    "file":"fonts/avenir/Avenir_44.TTF"
+	   }
+	  ]
+}
