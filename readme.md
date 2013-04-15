@@ -4,4 +4,4 @@ Has support for 12/24 Hour.
 
 Created By Alex Muller.
 
-![Screenshot](screenShot.JPG)
+![Screenshot](screenShot.png)
